@@ -1,6 +1,6 @@
 # Social-Network-API
 
-## Table of Contents:
+## Table of Contents
 
   [Description](#description)
   [Installation Instructions](#installation-instructions)
