@@ -37,7 +37,7 @@ Mock-Up
   
 ## Testing Instructions
 
-  A video demo of the routes being tested can be found [here.] (<https://drive.google.com/file/d/1MW6hjQu8fbDzbPfaS3HzIbTk7IPs98SX/view?usp=drive_link>)
+  A video demo of the routes being tested can be found [here.] (<https://drive.google.com/file/d/1THPYlbwUpeonjNtrutjiH8hdYYvWfkWb/view?usp=drive_link>)
 
 ## Questions
 
